@@ -1,4 +1,4 @@
-<img width="940" height="544" alt="image" src="https://github.com/user-attachments/assets/287bd734-6fe8-4174-94d4-ca6b1c708c22" />
+
 <h3>Building Intelligent, Factual Applications with LangChain and RAG</h3>
 </div>
 
