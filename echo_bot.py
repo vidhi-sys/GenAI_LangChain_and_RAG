@@ -7,7 +7,7 @@ from aiogram.filters import Command
 logging.basicConfig(level=logging.INFO)
 
 # Your bot token from BotFather- telegram 
-API_TOKEN = '8335555639:AAGunUL5_yF465-8EORim0Eoxz2xOBULwMM'
+API_TOKEN = '833xOBULwMM'
 
 # Initialize bot and dispatcher
 bot = Bot(token=API_TOKEN)
@@ -26,4 +26,5 @@ async def main():
 
 if __name__ == '__main__':
    asyncio.run(main())
+
    
