@@ -8,10 +8,7 @@
 <img src="https://img.shields.io/github/repo-size/vidhi-sys/LangChain_and_RAG?color=orange" alt="Repo Size"/>
 <img src="https://img.shields.io/badge/Python-3.8%252B-yellowgreen" alt="Python 3.8+"/>
 <img src="https://img.shields.io/badge/Framework-LangChain-ff69b4" alt="LangChain Version"/>
-![AI Demos Hackathon](https://img.shields.io/badge/AI%20Demos-Hackathon%20Nov%202025-blue)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![LangChain](https://img.shields.io/badge/LangChain-0.0.346-orange)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.28.0-red)
+
 </div>
 
 
