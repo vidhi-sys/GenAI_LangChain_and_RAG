@@ -12,12 +12,12 @@
 </div>
 
 
-2. Install dependencies:
+1. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Set up environment variables:
+2. Set up environment variables:
 ```bash
 cp .env.example .env
 # Add your Google PaLM API key to .env
